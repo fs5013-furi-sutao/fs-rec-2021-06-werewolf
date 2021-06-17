@@ -36,6 +36,31 @@ B チーム：
 
 <br />
 
+## ⬛ 🕢 役職表
+
+<table>
+  <tr>
+    <td>人数</td>
+    <td>村人</td>
+    <td>人狼</td>
+    <td>騎士</td>
+    <td>占い師</td>
+    <td>霊媒師</td>
+    <td>狂人</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td></td>
+  </tr>
+</table>
+
+<br />
+
 ## ⬛ 🕢 タイムテーブル
 
 <table>
