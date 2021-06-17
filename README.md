@@ -115,3 +115,4 @@ https://zinro.net/m/
 
 <img src="./image/enter-villedge.png" width="480" alt="村に入る" />
 
+<img src="./image/in-room.png" width="480" alt="部屋の中" />
