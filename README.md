@@ -109,7 +109,6 @@
 **人狼Online**:  
 https://zinro.net/m/
 
-<img src="./logo.jpg" width="80" alt>
-![トップページ](./image/top-page.png)
+<img src="./image/top-page.png" width="480" alt="トップレージ" />
 
-![入力内容](./image/enter-contents.png)
+<img src="./image/enter-contents.png" width="480" alt="入力内容" />
