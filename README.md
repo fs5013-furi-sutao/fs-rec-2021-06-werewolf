@@ -112,3 +112,6 @@ https://zinro.net/m/
 <img src="./image/top-page.png" width="480" alt="トップレージ" />
 
 <img src="./image/enter-contents.png" width="480" alt="入力内容" />
+
+<img src="./image/enter-villedge.png" width="480" alt="村に入る" />
+
