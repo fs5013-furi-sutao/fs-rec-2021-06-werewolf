@@ -116,3 +116,14 @@ https://zinro.net/m/
 <img src="./image/enter-villedge.png" width="480" alt="村に入る" />
 
 <img src="./image/in-room.png" width="480" alt="部屋の中" />
+
+<br />
+
+## ⬛ 🕢 注意事項
+
+### ゲームプレーヤーについて
+
+- プレイヤーの方は最初、音声をONにして下さい。Teams の画面は見ないで下さい
+
+- 噛まれた又は、処刑された場合は、音声をOFFにして下さい。自動的に霊界へ行くため、人狼オンライン内のチャットで人狼を予想しましょう
+
