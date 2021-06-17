@@ -110,3 +110,5 @@
 https://zinro.net/m/
 
 ![トップページ](./image/top-page.png)
+
+![入力内容](./image/enter-contents.png)
