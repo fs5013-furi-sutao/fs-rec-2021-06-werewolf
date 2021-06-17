@@ -46,9 +46,12 @@
     <td>説明</td>
     <td></td>
   </tr>
-</table>
-
-<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>13:10</td>
     <td>5分</td>
@@ -85,9 +88,12 @@
     <td></td>
     <td>25分まで感想&amp;トイレ休憩</td>
   </tr>
-</table>
-
-<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>14:30</td>
     <td>5分</td>
@@ -95,3 +101,4 @@
     <td>おわりに</td>
   </tr>
 </table>
+
