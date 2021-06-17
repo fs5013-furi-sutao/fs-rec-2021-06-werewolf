@@ -87,3 +87,11 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>14:30</td>
+    <td>5分</td>
+    <td></td>
+    <td>おわりに</td>
+  </tr>
+</table>
