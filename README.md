@@ -24,7 +24,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
 
 <br />
 
-## ⬛ 🕢 チーム分け
+## ⬛ 👨‍👩‍👧‍👦 チーム分け
 
 以下の2チームに分かれてゲームを行います（敬称略）。
 
