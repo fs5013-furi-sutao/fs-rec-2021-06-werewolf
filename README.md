@@ -74,7 +74,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>7</td>
     <td>近藤大揮</td>
     <td>7</td>
-    <td>橋本夏</td>
+    <td>橋本夏樹</td>
   </tr>
   <tr>
     <td>8</td>
