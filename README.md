@@ -99,7 +99,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>狂人</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>7人の場合</td>
     <td>2</td>
     <td>2</td>
     <td>1</td>
@@ -112,7 +112,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td colspan="6"></td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>8人の場合</td>
     <td>3</td>
     <td>2</td>
     <td>1</td>
