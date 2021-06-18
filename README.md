@@ -140,7 +140,7 @@ https://zinro.net/m/
     <td>12:50</td>
     <td>ー</td>
     <td>開場</td>
-    <td>こちらから入場ください</td>
+    <td>Teams に入場ください</td>
   </tr>
   <tr>
     <td colspan="4"></td>
