@@ -89,8 +89,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
 
 <table>
   <tr>
-    <td>人数</td>
-    <td rowspan="2"></td>
+    <td>合計人数</td>
+    <td rowspan="4"></td>
     <td>村人</td>
     <td>人狼</td>
     <td>騎士</td>
@@ -107,8 +107,20 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>1</td>
     <td>なし</td>
   </tr>
+  <tr>
+    <td></td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>なし</td>
+  </tr>
 </table>
-
 
 <br />
 
