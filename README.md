@@ -161,7 +161,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>13:10</td>
     <td>5分</td>
     <td>村に入る</td>
-    <td>グループ確認(Aチーム)</td>
+    <td>グループ確認(A チーム)</td>
   </tr>
   <tr>
     <td>13:43</td>
@@ -179,7 +179,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>13:50</td>
     <td>5分</td>
     <td>村に入る</td>
-    <td>グループ確認(Cチーム)</td>
+    <td>グループ確認(B チーム)</td>
   </tr>
   <tr>
     <td>14:23</td>
