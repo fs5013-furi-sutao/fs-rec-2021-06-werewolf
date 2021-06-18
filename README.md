@@ -137,7 +137,10 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>12:50</td>
     <td>ー</td>
     <td>開場</td>
-    <td>こちらから入場ください<br>FSオンラインボードゲーム大会</td>
+    <td>こちらから入場ください</td>
+  </tr>
+  <tr>
+    <td colspan="4"></td>
   </tr>
   <tr>
     <td>13:00</td>
@@ -152,10 +155,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="4"></td>
   </tr>
   <tr>
     <td>13:10</td>
@@ -176,6 +176,9 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>45分まで感想&amp;トイレ休憩</td>
   </tr>
   <tr>
+    <td colspan="4"></td>
+  </tr>
+  <tr>
     <td>13:50</td>
     <td>5分</td>
     <td>村に入る</td>
@@ -194,10 +197,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
     <td>25分まで感想&amp;トイレ休憩</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="4"></td>
   </tr>
   <tr>
     <td>14:30</td>
