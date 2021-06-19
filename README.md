@@ -66,13 +66,13 @@ https://www.bodoge-intl.com/list/insapo/hazimete/
     <td>5</td>
     <td>安部貴哉</td>
     <td>5</td>
-    <td><del>内田祐太</del>欠席</td>
+    <td>斉藤憲吾</td>
   </tr>
   <tr>
     <td>6</td>
     <td>各務拓</td>
     <td>6</td>
-    <td><del>吉村豊</del>欠席</td>
+    <td>近藤大揮</td>
   </tr>
   <tr>
     <td>7</td>
