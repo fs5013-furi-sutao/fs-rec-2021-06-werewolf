@@ -43,7 +43,7 @@ https://zinro.net/m/
   </tr>
   <tr>
     <td>2</td>
-    <td>太田康介(ゲーム事業部)</td>
+    <td>太田康介</td>
     <td>2</td>
     <td>今立唯子</td>
   </tr>
