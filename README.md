@@ -38,15 +38,15 @@ https://www.bodoge-intl.com/list/insapo/hazimete/
   <tr>
     <td rowspan="8">A チーム</td>
     <td>1</td>
-    <td>内山昌也</td>
+    <td>赤木優輝</td>
     <td rowspan="8"></td>
     <td rowspan="8">B チーム</td>
     <td>1</td>
-    <td>林江里香</td>
+    <td>太田康介</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>太田康介</td>
+    <td>林江里香</td>
     <td>2</td>
     <td>今立唯子</td>
   </tr>
@@ -54,11 +54,11 @@ https://www.bodoge-intl.com/list/insapo/hazimete/
     <td>3</td>
     <td>斉藤憲吾</td>
     <td>3</td>
-    <td>赤木優輝</td>
+    <td>内山昌也</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>内田祐太</td>
+    <td>鍛冶宏旭</td>
     <td>4</td>
     <td>中野義嗣</td>
   </tr>
@@ -66,13 +66,13 @@ https://www.bodoge-intl.com/list/insapo/hazimete/
     <td>5</td>
     <td>安部貴哉</td>
     <td>5</td>
-    <td>鍛冶宏旭</td>
+    <td><del>内田祐太</del>欠席</td>
   </tr>
   <tr>
     <td>6</td>
     <td>各務拓</td>
     <td>6</td>
-    <td>吉村豊</td>
+    <td><del>吉村豊</del>欠席</td>
   </tr>
   <tr>
     <td>7</td>
