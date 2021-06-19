@@ -25,6 +25,9 @@ https://teams.microsoft.com/l/meetup-join/19%3a2aa42dc564aa42309a1a1c87bf23edb7%
 **人狼 Online**:  
 https://zinro.net/m/
 
+**ゲーム説明サイト**:    
+https://www.bodoge-intl.com/list/insapo/hazimete/
+
 <br />
 
 ## ⬛ 👨‍👩‍👧‍👦 チーム分け
